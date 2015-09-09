@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+  font-family: 'Megrim', cursive;
+}
+
+#true-result {
+  display: none;
+}
+
+#false-result {
+  display: none;
+}
+
+form {
+  margin-bottom: 40px;
+}
+
+#palindrome {
+  display: none;
+  font-size: 30px;
+  margin: 0, 0, -10px, 0;
+}
